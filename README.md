@@ -1,7 +1,7 @@
 # HTMixtureModel_GITHUB
  Heffernan Tawn Mixture Model as in Tendijck et al (2021)
 
-This code is aimed to be supplementary material to Tendijck et al (2021).
+This code is aimed to be supplementary material to Tendijck et al (2021) and is written in MATLAB (R2019b)
 
 This folder contains two main .m files:
 	1. tutorial.m which demonstrate how to use most of the important functions that we wrote
