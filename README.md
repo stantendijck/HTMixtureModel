@@ -12,4 +12,4 @@ This folder contains two main .m files:
 
 
 John D'Errico (2020). SLM - Shape Language Modeling (https://www.mathworks.com/matlabcentral/fileexchange/24443-slm-shape-language-modeling), MATLAB Central File Exchange. Retrieved November 30, 2020.
-Tendijck, S.H.A, Eastoe, E, Tawn, J.A., Randell, D., and Jonathan, P. (2021). Modelling the extremes of bivariate mixture distributions with application to oceanographic data. (To be published)
+Tendijck, S.H.A, Eastoe, E, Tawn, J.A., Randell, D., and Jonathan, P. (2021). Modelling the extremes of bivariate mixture distributions with application to oceanographic data, Journal of the American Statistical Association, DOI: 10.1080/01621459.2021.1996379
